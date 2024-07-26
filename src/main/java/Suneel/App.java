@@ -1,7 +1,7 @@
 package Suneel;
 
 /**
- * Hello world! SuNeel
+ * Hello world! SuNeel - Welcome to My Class
  *
  */
 public class App 
